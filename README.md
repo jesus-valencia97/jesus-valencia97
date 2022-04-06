@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesus-valencia97
-- 👀 I’m interested in ... Neuronal Networks and ML
+- 👀 I’m interested in ... Neuronal Networks, ML and AI
 - 🌱 I’m currently learning ... TCN
 - 💞️ I’m looking to collaborate on ... ML and AI
 - 📫 How to reach me ... jesus.valenciam@ciencias.unam.mx
